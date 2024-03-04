@@ -20,4 +20,7 @@ To run this application on your own IDE, you need to create a file that contains
 
    pref_name = [SharedPref name]
 
+4. Sync gradle file
+5. Run the project
+
 ---
