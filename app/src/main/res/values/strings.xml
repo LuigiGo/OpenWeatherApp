@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Open Weather App</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="saved_weather">Saved Weather</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="str_hi_guest">Hi Guest!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="okay">Okay</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+
+    <string name="str_place">%s, %s</string>
+    <string name="str_temp">%s °C</string>
+
+    <string name="header_oops">Oopss!</string>
+    <string name="err_msg_invalid_email">Please check your email address</string>
+    <string name="err_msg_password_not_matched">Password not matched</string>
+    <string name="success">Success</string>
+    <string name="success_msg_account_registered">Account successfully registered!</string>
+    <string name="header_permission_required">Permission Required</string>
+    <string name="header_permission_granted">Permission Granted</string>
+    <string name="success_location_enabled">Location permission is now enabled</string>
+    <string name="sunrise_with_colon">Sunrise: </string>
+    <string name="sunset_with_colon">"Sunset: "</string>
+</resources>
